@@ -181,7 +181,5 @@ These insights can help businesses develop targeted retention strategies and pri
 
 BCA Graduate | Aspiring Data Analyst
 
-### Skills
 
-`SQL` `Python` `Excel` `Power BI` `DAX` `Data Analytics`
 
