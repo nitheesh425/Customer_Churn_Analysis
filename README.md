@@ -134,7 +134,7 @@ Tools & Technologies
 * **Data Analysis**
 * **Data Visualization**
 
----
+
 
 Project Workflow
 
@@ -171,15 +171,12 @@ Customer-Churn-Analysis/
  Project Outcome
 
 The analysis identified several important churn patterns, particularly **high churn during the first six months**, a large concentration of churn among **month-to-month customers**, and higher average monthly charges among churned customers.
+<img width="1439" height="793" alt="{8A11A0D1-88D6-4290-996D-B0DB0B4FF894}" src="https://github.com/user-attachments/assets/2ca214d7-e909-489b-8ca9-096383440cae" />
 
 These insights can help businesses develop targeted retention strategies and prioritize high-risk customer segments.
 
 
- Author
 
-**Nitheesh C**
-
-BCA Graduate | Aspiring Data Analyst
 
 
 
